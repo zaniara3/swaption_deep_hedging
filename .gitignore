@@ -10,4 +10,4 @@ env/
 *.log
 .DS_Store
 models/*.pt
-models/*.pth
+models/final_trained/*.pth
