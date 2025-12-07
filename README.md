@@ -101,7 +101,7 @@ Follow the steps below to set up the environment and run the project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/learning-to-hedge-swaptions.git
+git clone https://github.com/zaniara3/learning-to-hedge-swaptions.git
 cd learning-to-hedge-swaptions
 ```
 
